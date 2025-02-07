@@ -12,4 +12,4 @@ This repo contains the source code of [Night Photography Rendering Challenge 202
 
 # Initial data processing
 
-File crop_resize.py contains function "def crop_resize" which allows to bring source images from smartphone to size of ground truth images from photo camera. **CAUTION**! Crop and resize shoul be performed after debayering and distortion correction of input images.  
+File crop_resize.py contains function "def crop_resize" which allows to bring source images from smartphone to size of ground truth images from photo camera. **CAUTION**! Crop and resize should be performed after debayering and distortion correction of input images.  
